@@ -1,3 +1,3 @@
 # setConda
 
-conda env create -f virtual_pytorch_mac.yml
+conda env create -f virtual_pytorch_mac.yaml
